@@ -32,6 +32,7 @@ The screw below the cable tie slot is a bit of a pain to get to. I use a magnet 
 
 _**Check the blower duct clearance before printing for the first time after installing.**_ Ensure that the plate cap part is fully seated, then loosen the locknut on the back of the blower bracket to allow adjustment by sliding the blower bracket up or down in the slot. Raise or lower the bracket as needed. Lower the nozzle to the bed and check that there is enough clearance between the bed and the duct.
 
+![assembly view](https://raw.githubusercontent.com/opcow/Ender-3-fan-system-V6/master/view_main.png)
 ![printables image](https://raw.githubusercontent.com/opcow/Ender-3-fan-system-V6/master/printables.png)
 ![view 0 image](https://raw.githubusercontent.com/opcow/Ender-3-fan-system-V6/master/view_0.png)
 ![view 1 image](https://raw.githubusercontent.com/opcow/Ender-3-fan-system-V6/master/view_1.png)
