@@ -3,6 +3,11 @@
 * Compatible with a 4010/4020/4028 fan for the heat sink and a 5015 blower for part cooling.
 * Designed for the Creality Ender 3. Should work on some other Creality Printers.
 
+Changes 2019/02/18:
+
+* Increased adjustment slot length for more upward movement
+* Added captive nut slot
+
 This design is more complicated to print than [my other design](https://www.thingiverse.com/thing:3353695), but it has the advantage of giving a really good view of the print nozzle. I think it may cool the heat sink better, due to the better directed air flow, but I haven't tested this.
 
 ### Screws Needed
